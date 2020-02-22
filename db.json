@@ -1,0 +1,237 @@
+{
+    "tips": [
+        {
+          "id": 1,
+          "cname": "SFL",
+          "action": {
+            "buy": "BUY : 4180",
+            "sell": ""
+          },
+          "sl": "4150",
+          "target": "4200",
+          "tf": "Intraday"
+},
+{
+    "id": 2,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+},
+{
+    "id": 3,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+},
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}  ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   ,
+{
+    "id": 4,
+    "cname": "HDFC",
+    "action": {
+      "buy": "",
+      "sell": "SELL : 2000"
+    },
+    "sl": "4150",
+    "target": "4200",
+    "tf": "Intraday"
+}   
+
+        
+      ]
+  }
